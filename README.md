@@ -1,2 +1,2 @@
 # ProyectoEmbebidos
-Código para el brazalete con sensor de pulso 
+Código base para el brazalete con sensor de pulso e implementación de alarmas, con diseño de omnitrix
